@@ -1,5 +1,5 @@
 # CS354-Compiler-Construction
-Assignments and Lab Tasks of my compiler construction course. 
+This repository contains my Lab Tasks of Compiler Construction course. 
 
 | Labs | Topics |
 | --- | --- |
