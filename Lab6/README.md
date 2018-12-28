@@ -6,11 +6,11 @@ For example given the following input: 44 33 22 * + 1 -</br>{ result = 769 }
 # How to Run
 Use following commands sequentially:
 ```shell
-flex code.l
+$ flex code.l
 ```
 ```shell
-gcc lex.yy.c -lfl
+$ gcc lex.yy.c -lfl
 ```
 ```shell
-./a.out
+$ ./a.out
 ```
