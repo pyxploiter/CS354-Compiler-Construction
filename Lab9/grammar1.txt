@@ -1,0 +1,3 @@
+S -> Bb | Cd
+B -> aB | o
+C -> cC | o
