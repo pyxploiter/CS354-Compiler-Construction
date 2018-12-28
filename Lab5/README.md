@@ -10,7 +10,11 @@ Printing of un-recognized characters <br/>
 # How to Run
 Use following commands sequentially:
 ```shell
-flex code.l
-gcc lex.yy.c -lfl
-./a.out
+$ flex code.l
+```
+```shell
+$ gcc lex.yy.c -lfl
+```
+```shell
+$ ./a.out
 ```
